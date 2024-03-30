@@ -52,8 +52,8 @@ For efficient repetition and seamless management of multiple trials:
 | 1           | Generate Credit Card (CC) using Namso-gen             | [Namso-gen](https://namso-gen.com/?tab=advance&network=random)                                           |
 | 2           | Proceed to Pay Google                                 | [Google Pay](https://pay.google.com/)                                                                    |
 | 5           | Go to Google Gemini                                   | [Google Gemini](https://gemini.google.com/advanced)                                                      |
-| Pro Tip     | Efficient repetition and management of multiple trials| Generate a fresh CC via Namso-gen: [Namso-gen](https://namso-gen.com/?tab=advance&network=random)       |
-| Stay Updated| Follow Elite Kamrul on Facebook                      | [Elite Kamrul's Facebook](https://www.facebook.com/EliteKamrul)                                           |
+| Pro Tip     | Efficient repetition and management of multiple trials| [Namso-gen](https://namso-gen.com/?tab=advance&network=random)       |
+| Stay Updated| Follow Elite Kamrul on Facebook                      | [Facebook](https://www.facebook.com/EliteKamrul)                                           |
 
 
 
